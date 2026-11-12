@@ -1,0 +1,3 @@
+= Ressources de départ - Séance 06
+
+`diagnostic.php` contient une lecture non protégée, une condition incorrecte et une sortie HTML non échappée.
